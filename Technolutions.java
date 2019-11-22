@@ -2,7 +2,10 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Technolutions {
-
+/*
+Created by Dilwar Singh (dilwarsingh2706@gmail.com)
+on 22-Nov-2019
+* */
     private static HashMap<Integer, Integer> directionsVal = new HashMap<>();
     private static char[] directions = {'N', 'E', 'S', 'W',};
 
